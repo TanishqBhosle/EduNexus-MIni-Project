@@ -136,3 +136,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - MongoDB documentation
 - Socket.io documentation
 
+<img width="1284" height="1203" alt="image" src="https://github.com/user-attachments/assets/bd4da298-9bc7-482c-bfbd-6db58dce0f81" />
+

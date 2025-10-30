@@ -137,4 +137,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Socket.io documentation
 
 <img width="1284" height="1203" alt="image" src="https://github.com/user-attachments/assets/bd4da298-9bc7-482c-bfbd-6db58dce0f81" />
+<img width="1029" height="902" alt="image" src="https://github.com/user-attachments/assets/73bcc426-1d9b-487f-9ea6-ecced3de8d0a" />
+
 

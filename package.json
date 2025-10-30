@@ -1,0 +1,19 @@
+{
+  "name": "edunexus-lms",
+  "version": "1.0.0",
+  "description": "EduNexus - Mini Learning Management System",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd backend && npm run dev",
+    "client": "cd frontend && npm start",
+    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install"
+  },
+  "keywords": ["lms", "education", "mern", "react", "nodejs", "mongodb"],
+  "author": "EduNexus Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
+

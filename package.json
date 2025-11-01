@@ -7,15 +7,20 @@
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "server": "cd backend && npm run dev",
     "client": "cd frontend && npm start",
-    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install"
-    "build": "cd frontend && npm install && npm run build",
-  "start": "cd backend && npm install && node server.js"
+    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "build": "cd frontend && npm run build"
   },
-  "keywords": ["lms", "education", "mern", "react", "nodejs", "mongodb"],
+  "keywords": [
+    "lms",
+    "education",
+    "mern",
+    "react",
+    "nodejs",
+    "mongodb"
+  ],
   "author": "EduNexus Team",
   "license": "MIT",
   "devDependencies": {
     "concurrently": "^8.2.2"
   }
 }
-
